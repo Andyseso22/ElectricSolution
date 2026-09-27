@@ -1,0 +1,16 @@
+C:\Users\andy\Downloads\ElectricSolution\bin\Debug\net8.0-windows\ElectricSolution.exe
+C:\Users\andy\Downloads\ElectricSolution\bin\Debug\net8.0-windows\ElectricSolution.deps.json
+C:\Users\andy\Downloads\ElectricSolution\bin\Debug\net8.0-windows\ElectricSolution.runtimeconfig.json
+C:\Users\andy\Downloads\ElectricSolution\bin\Debug\net8.0-windows\ElectricSolution.dll
+C:\Users\andy\Downloads\ElectricSolution\bin\Debug\net8.0-windows\ElectricSolution.pdb
+C:\Users\andy\Downloads\ElectricSolution\obj\Debug\net8.0-windows\ElectricSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy\Downloads\ElectricSolution\obj\Debug\net8.0-windows\ElectricSolution.AssemblyInfoInputs.cache
+C:\Users\andy\Downloads\ElectricSolution\obj\Debug\net8.0-windows\ElectricSolution.AssemblyInfo.cs
+C:\Users\andy\Downloads\ElectricSolution\obj\Debug\net8.0-windows\ElectricSolution.csproj.CoreCompileInputs.cache
+C:\Users\andy\Downloads\ElectricSolution\obj\Debug\net8.0-windows\ElectricSolution.dll
+C:\Users\andy\Downloads\ElectricSolution\obj\Debug\net8.0-windows\refint\ElectricSolution.dll
+C:\Users\andy\Downloads\ElectricSolution\obj\Debug\net8.0-windows\ElectricSolution.pdb
+C:\Users\andy\Downloads\ElectricSolution\obj\Debug\net8.0-windows\ElectricSolution.genruntimeconfig.cache
+C:\Users\andy\Downloads\ElectricSolution\obj\Debug\net8.0-windows\ref\ElectricSolution.dll
+C:\Users\andy\Downloads\ElectricSolution\obj\Debug\net8.0-windows\ElectricSolution.Views.FrmPrincipal.resources
+C:\Users\andy\Downloads\ElectricSolution\obj\Debug\net8.0-windows\ElectricSolution.csproj.GenerateResource.cache

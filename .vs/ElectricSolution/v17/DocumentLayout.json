@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andy\\Downloads\\ElectricSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|c:\\users\\andy\\downloads\\electricsolution\\electricsolution\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmestadocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmestadocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmestadocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmestadocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmlogin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmlogin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\models\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\models\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmclientes.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmclientes.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|C:\\Users\\andy\\Downloads\\ElectricSolution\\electricsolution\\views\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-1234567890AB}|ElectricSolution\\ElectricSolution.csproj|solutionrelative:electricsolution\\views\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Program.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Program.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Program.cs",
+              "RelativeToolTip": "ElectricSolution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:55:42.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmFacturas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmFacturas.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmFacturas.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmFacturas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmFacturas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:52:58.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:36.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmEstadoCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmEstadoCuenta.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmEstadoCuenta.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmEstadoCuenta.cs",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmEstadoCuenta.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAEUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:24.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmFacturas.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmFacturas.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmFacturas.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmFacturas.cs",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmFacturas.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAFcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:26.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Conexion.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Conexion.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Conexion.cs",
+              "RelativeToolTip": "ElectricSolution\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:40:44.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmEstadoCuenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmEstadoCuenta.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmEstadoCuenta.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmEstadoCuenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmEstadoCuenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:55:25.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmLogin.resx",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmLogin.resx",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmLogin.resx",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmLogin.resx",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmLogin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-25T22:52:47.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:52:23.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmRegistro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmRegistro.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmRegistro.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmRegistro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmRegistro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:42.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmLogin.cs",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:27.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmReportes.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmReportes.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:44.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "ElectricSolution\\Controllers\\ReporteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:11.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmReportes.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmReportes.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmReportes.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmReportes.cs",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmReportes.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAAAH8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:31.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmRegistro.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmRegistro.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmRegistro.cs",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmRegistro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:29.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "ElectricSolution\\Controllers\\FacturaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:10.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Controllers\\CuentaController.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "ElectricSolution\\Controllers\\CuentaController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:08.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "ElectricSolution\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:00.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Models\\Reporte.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Models\\Reporte.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Models\\Reporte.cs",
+              "RelativeToolTip": "ElectricSolution\\Models\\Reporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:19.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Models\\Factura.cs",
+              "RelativeToolTip": "ElectricSolution\\Models\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:18.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Models\\Cuenta.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Models\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Models\\Cuenta.cs",
+              "RelativeToolTip": "ElectricSolution\\Models\\Cuenta.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:17.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Models\\Cliente.cs",
+              "RelativeToolTip": "ElectricSolution\\Models\\Cliente.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:15.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmClientes.cs",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:23.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:46.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmClientes.resx",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmClientes.resx",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmClientes.resx",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmClientes.resx",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmClientes.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-25T22:47:13.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "ElectricSolution\\Views\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\andy\\Downloads\\ElectricSolution\\ElectricSolution\\Views\\FrmPrincipal.cs",
+              "RelativeToolTip": "ElectricSolution\\Views\\FrmPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T22:35:28.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\andy\Downloads\ElectricSolution\ElectricSolution\bin\Debug\ElectricSolution.exe.config
+C:\Users\andy\Downloads\ElectricSolution\ElectricSolution\bin\Debug\ElectricSolution.exe
+C:\Users\andy\Downloads\ElectricSolution\ElectricSolution\bin\Debug\ElectricSolution.pdb
+C:\Users\andy\Downloads\ElectricSolution\ElectricSolution\obj\Debug\ElectricSolution.csproj.AssemblyReference.cache
+C:\Users\andy\Downloads\ElectricSolution\ElectricSolution\obj\Debug\ElectricSolution.csproj.CoreCompileInputs.cache
+C:\Users\andy\Downloads\ElectricSolution\ElectricSolution\obj\Debug\ElectricSolution.exe
+C:\Users\andy\Downloads\ElectricSolution\ElectricSolution\obj\Debug\ElectricSolution.pdb
+C:\Users\andy\Downloads\ElectricSolution\ElectricSolution\obj\Debug\ElectricSolution.exe.config
+C:\Users\andy\Downloads\ElectricSolution\ElectricSolution\obj\Debug\ElectricSolution.Views.FrmClientes.resources
+C:\Users\andy\Downloads\ElectricSolution\ElectricSolution\obj\Debug\ElectricSolution.Views.FrmFacturas.resources
+C:\Users\andy\Downloads\ElectricSolution\ElectricSolution\obj\Debug\ElectricSolution.Views.FrmLogin.resources
+C:\Users\andy\Downloads\ElectricSolution\ElectricSolution\obj\Debug\ElectricSolution.Views.FrmRegistro.resources
+C:\Users\andy\Downloads\ElectricSolution\ElectricSolution\obj\Debug\ElectricSolution.csproj.GenerateResource.cache
